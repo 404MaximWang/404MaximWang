@@ -1,4 +1,8 @@
-## Hi there 👋
+## 大家好啊，我是0xa7973908。 👋
+
+> 你可不是随便一种大便。你是狗大便。我敢说这是大便里最糟糕的一种。
+
+这里应当有一个由A1 slop构成的主页。请发动鬼脑，想象这里有不明所以的emoji，令人作呕的装饰以及很牛*的项目。
 
 <!--
 **404MaximWang/404MaximWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
