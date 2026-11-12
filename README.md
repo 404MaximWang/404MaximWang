@@ -1,8 +1,8 @@
 ## 大家好啊，我是0xa7973908。
 
-> 你可不是随便一种大便。你是狗大便。我敢说这是大便里最糟糕的一种。
+> 是身如幻，从颠倒起；是身如梦，为虚妄见。
 
-这里应当有一个由A1 slop构成的主页。请发动鬼脑，想象这里有不明所以的emoji，令人作呕的装饰以及很牛*的项目。
+这里本该是由A1 slop生成的主页：有不明所以的emoji，有很牛*的项目。
 
 <img width="2319" height="1742" alt="Screenshot_20260914_024538_Gallery" src="https://github.com/user-attachments/assets/da22aeb8-03bc-410b-9f83-085ec5cfc559" />
 
